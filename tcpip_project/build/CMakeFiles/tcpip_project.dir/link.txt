@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tcpip_project.dir/src/main.c.o CMakeFiles/tcpip_project.dir/src/ip.c.o CMakeFiles/tcpip_project.dir/src/tcp.c.o CMakeFiles/tcpip_project.dir/src/checksum.c.o -o tcpip_project
