@@ -1,5 +1,3 @@
-Tabii Selocan! İşte GitHub’a koyarken kullanabileceğin profesyonel ve sade bir açıklama metni:
-
 ---
 
 # TCP/IP Protocol Stack Simulation in C
